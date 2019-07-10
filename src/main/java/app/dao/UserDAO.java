@@ -12,5 +12,7 @@ public interface UserDAO extends BaseDAO<Integer, User> {
 	List<User> searchUserUsingCretial(String name, int gender);
 
 	List<User> loadUsers();
+	
+	
 
 }
