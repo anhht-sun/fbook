@@ -1,0 +1,12 @@
+app/controller/HomeController.class
+app/service/impl/UserServiceImpl.class
+app/dao/GenericDAO.class
+app/dao/BaseDAO.class
+app/model/User.class
+app/bean/UserInfo.class
+app/controller/UserController.class
+app/dao/impl/UserDAOImpl.class
+app/service/UserService.class
+app/service/impl/BaseServiceImpl.class
+app/service/BaseService.class
+app/dao/UserDAO.class

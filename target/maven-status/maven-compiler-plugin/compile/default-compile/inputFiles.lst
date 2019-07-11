@@ -1,1 +1,12 @@
+/home/anh/Project/SpringMVC/fbook/src/main/java/app/service/impl/UserServiceImpl.java
+/home/anh/Project/SpringMVC/fbook/src/main/java/app/dao/impl/UserDAOImpl.java
+/home/anh/Project/SpringMVC/fbook/src/main/java/app/dao/GenericDAO.java
+/home/anh/Project/SpringMVC/fbook/src/main/java/app/dao/BaseDAO.java
+/home/anh/Project/SpringMVC/fbook/src/main/java/app/dao/UserDAO.java
+/home/anh/Project/SpringMVC/fbook/src/main/java/app/bean/UserInfo.java
+/home/anh/Project/SpringMVC/fbook/src/main/java/app/controller/UserController.java
+/home/anh/Project/SpringMVC/fbook/src/main/java/app/model/User.java
+/home/anh/Project/SpringMVC/fbook/src/main/java/app/service/UserService.java
+/home/anh/Project/SpringMVC/fbook/src/main/java/app/service/BaseService.java
 /home/anh/Project/SpringMVC/fbook/src/main/java/app/controller/HomeController.java
+/home/anh/Project/SpringMVC/fbook/src/main/java/app/service/impl/BaseServiceImpl.java
